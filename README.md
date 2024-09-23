@@ -49,9 +49,9 @@ src="https://github.com/user-attachments/assets/060231db-5d6f-451f-ad2f-c54cd3fa
 ### Cloud Platforms
 
 - **Services:** AWS, Google Cloud, Azure
-
+<img align="right" height="350" width="360" src="https://github.com/user-attachments/assets/9480e480-4a63-4316-83b1-872958f138e5" /> 
 <p align="left"><img 
-src="https://github.com/user-attachments/assets/901e476c-e7c8-4eba-96b9-1edba690f2aa" alt="AWS" title="AWS" width="100" height="70"/> <img src="https://github.com/user-attachments/assets/713cca13-5dda-4ed1-b9d2-13132fb51472" alt="Google Cloud" title="Google Cloud" width="80" height="80"/> <img align="right" height="350" width="360" src="https://github.com/user-attachments/assets/9480e480-4a63-4316-83b1-872958f138e5" /> <img src="https://github.com/user-attachments/assets/901376d3-b952-4dee-86bc-d44084de1425" alt="Azure" title="Azure" width="100" height="80"/> </p>
+src="https://github.com/user-attachments/assets/901e476c-e7c8-4eba-96b9-1edba690f2aa" alt="AWS" title="AWS" width="100" height="70"/> <img src="https://github.com/user-attachments/assets/713cca13-5dda-4ed1-b9d2-13132fb51472" alt="Google Cloud" title="Google Cloud" width="80" height="80"/> <img src="https://github.com/user-attachments/assets/901376d3-b952-4dee-86bc-d44084de1425" alt="Azure" title="Azure" width="100" height="80"/> </p>
 
 
 
