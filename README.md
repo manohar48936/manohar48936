@@ -6,7 +6,6 @@
     <img src="https://github.com/user-attachments/assets/8270442c-df8c-41f2-ba1d-aed2e4c36bf9" alt="Data Science Banner" />
 </div>
 
-<img src="https://raw.githubusercontent.com/manohar48936/manohar48936/output/snake.svg" alt="Snake animation" />
 
 ---
 
