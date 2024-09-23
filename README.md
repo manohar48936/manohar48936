@@ -1,14 +1,20 @@
 # 💻 Welcome to My Data Science GitHub Profile!
 
-Hi! I'm a **Data Science Enthusiast** with a passion for solving real-world problems using data. I am currently exploring various aspects of data science, including machine learning, data visualization, and statistical analysis.
+<h1 align="center"><font face="Arial">Hi 👋, I'm Kondeti Veera Venkata Surya Sai Manohar </h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/manohar-kondeti/" target="_blank" rel="noreferrer">Manohar</a> is a Data Science Enthusiast with a passion for solving real-world problems using data. I am currently exploring various aspects of data science, including machine learning, data visualization, and statistical analysis.</font></h3>
 
-![Data Science Banner](https://github.com/user-attachments/assets/8270442c-df8c-41f2-ba1d-aed2e4c36bf9) <!-- Replace with your own image -->
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/8270442c-df8c-41f2-ba1d-aed2e4c36bf9" alt="Data Science Banner" />
+</div>
 
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 ---
 
+
 ## 🚀 **Technical Skills**
+
+<img align="right" height="400" width="600" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 
 ### Programming
 - **Languages:** Python, SQL
@@ -31,11 +37,12 @@ src="https://github.com/user-attachments/assets/d179410a-25c0-42a6-bfea-b90d9d84
 
 ### Data Visualization
 
+<img align="right" height="300" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
 - **Tools:** Matplotlib, Seaborn, Power BI
 
 <p align="left"><img 
 src="https://github.com/user-attachments/assets/060231db-5d6f-451f-ad2f-c54cd3fa5a84" alt="Matplotlib" title="Matplotlib" width="80" height="60"/> <img src="https://github.com/user-attachments/assets/b6f5e105-7009-4c97-8d1c-b73d59d1320e" alt="Seaborn" title="Seaborn" width="60" height="60"/> <img src="https://github.com/user-attachments/assets/8a7d6682-d126-462f-87ba-a02d4c6b0bec" alt="Power BI" title="Power BI" width="60" height="60"/>  </p>
-
 
 ### Cloud Platforms
 
