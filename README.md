@@ -6,7 +6,15 @@
     <img src="https://github.com/user-attachments/assets/8270442c-df8c-41f2-ba1d-aed2e4c36bf9" alt="Data Science Banner" />
 </div>
 
-
+---
+## Quick Navigation:
+[Cloud Platforms](#cloud-platforms)  
+[Databases](#databases)  
+[Statistical Analysis](#statistical-analysis)  
+[Data Wrangling](#data-wrangling)  
+[Projects](https://github.com/manohar48936/manohar48936/edit/main/README.md#-projects)  
+[Soft Skills](#soft-skills)  
+[Currently Learning](#currently-learning)  
 ---
 
 
