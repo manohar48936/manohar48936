@@ -2,47 +2,57 @@
 
 Hi! I'm a **Data Science Enthusiast** with a passion for solving real-world problems using data. I am currently exploring various aspects of data science, including machine learning, data visualization, and statistical analysis.
 
-![Data Science Banner](https://via.placeholder.com/800x200.png?text=Data+Science+Journey) <!-- Replace with your own image -->
+![Data Science Banner](https://github.com/user-attachments/assets/8270442c-df8c-41f2-ba1d-aed2e4c36bf9) <!-- Replace with your own image -->
+
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 ---
 
 ## 🚀 **Technical Skills**
 
 ### Programming
-![Programming GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) <!-- Replace with your own gif -->
 - **Languages:** Python, SQL
-  <p float="left">
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-    
-  <a href="https://mysql.com/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fmysql-logo%2F&psig=AOvVaw3vt_joizvf7cJ-Tt8ywneI&ust=1727163200597000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPip_8fG2IgDFQAAAAAdAAAAABAE" height="90" />
-</a>
- 
+
+<p align="left"><img 
+src="https://github.com/user-attachments/assets/fb193712-51f0-4d4a-b822-d0466c034353" alt="python" title="python" width="60" height="60"/> <img src="https://github.com/user-attachments/assets/1bd26e2e-a762-41ab-a6c8-535cdca9df3b" alt="MYSQL" title="MYSQL" width="80" height="60"/>  </p>
+
 - **Data Manipulation:** Pandas, NumPy  
 
+<p align="left"><img 
+src="https://github.com/user-attachments/assets/dea647dc-cd87-416f-a213-45821ea0a9a8" alt="Pandas" title="pandas" width="80" height="60"/> <img src="https://github.com/user-attachments/assets/ecfd80be-4919-4e53-a6c9-f5804046ba77" alt="Numpy" title="Numpy" width="60" height="60"/>  </p>
+
+
 ### Machine Learning & AI
-![Machine Learning GIF](https://media.giphy.com/media/UrcXN0zTfzTPYg6qI5/giphy.gif) <!-- Replace with your own gif -->
-- **Frameworks:** Scikit-learn, TensorFlow, Keras  
+
+- **Frameworks:** Scikit-learn, TensorFlow, Keras
+
+<p align="left"><img 
+src="https://github.com/user-attachments/assets/d179410a-25c0-42a6-bfea-b90d9d846cbc" alt="Scikit-learn" title="Scikit-learn" width="80" height="60"/> <img src="https://github.com/user-attachments/assets/d785aef0-48f1-4e93-83f0-840980a89821" title="TensorFlow" width="60" height="60"/> <img src="https://github.com/user-attachments/assets/1350d035-4d39-4a1a-880d-3226b92be1ec" alt="Keras" title="Keras" width="60" height="60"/>  </p>
 
 ### Data Visualization
-![Data Visualization GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif) <!-- Replace with your own gif -->
-- **Tools:** Matplotlib, Seaborn, Power BI  
+
+- **Tools:** Matplotlib, Seaborn, Power BI
+
+<p align="left"><img 
+src="https://github.com/user-attachments/assets/060231db-5d6f-451f-ad2f-c54cd3fa5a84" alt="Matplotlib" title="Matplotlib" width="80" height="60"/> <img src="https://github.com/user-attachments/assets/b6f5e105-7009-4c97-8d1c-b73d59d1320e" alt="Seaborn" title="Seaborn" width="60" height="60"/> <img src="https://github.com/user-attachments/assets/8a7d6682-d126-462f-87ba-a02d4c6b0bec" alt="Power BI" title="Power BI" width="60" height="60"/>  </p>
+
 
 ### Cloud Platforms
-![Cloud Platforms GIF](https://media.giphy.com/media/J5wOL8tPO4mjUDEvdE/giphy.gif) <!-- Replace with your own gif -->
-- **Services:** AWS, Google Cloud, Azure  
+
+- **Services:** AWS, Google Cloud, Azure
+
+<p align="left"><img 
+src="https://github.com/user-attachments/assets/901e476c-e7c8-4eba-96b9-1edba690f2aa" alt="AWS" title="AWS" width="80" height="60"/> <img src="https://github.com/user-attachments/assets/713cca13-5dda-4ed1-b9d2-13132fb51472" alt="Google Cloud" title="Google Cloud" width="60" height="60"/>  <img src="https://github.com/user-attachments/assets/901376d3-b952-4dee-86bc-d44084de1425" alt="Azure" title="Azure" width="60" height="60"/> </p>
 
 ### Databases
-![Databases GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) <!-- Replace with your own gif -->
 - **RDBMS:** MySQL  
 
 ### Statistical Analysis
-![Statistics GIF](https://media.giphy.com/media/jSyYQFOQfWEkU/giphy.gif) <!-- Replace with your own gif -->
+
 - **Methods:** Hypothesis Testing, Regression Analysis  
 
 ### Data Wrangling
-![Data Wrangling GIF](https://media.giphy.com/media/j6fTa3sq9d8MDK8QO0/giphy.gif) <!-- Replace with your own gif -->
+
 - **Techniques:** Data Cleaning, Feature Engineering  
 
 ---
