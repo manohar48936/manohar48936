@@ -13,7 +13,7 @@
 
 ## 🚀 **Technical Skills**
 
-<img align="right" height="370" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 
 ### Programming
@@ -27,13 +27,14 @@ src="https://github.com/user-attachments/assets/fb193712-51f0-4d4a-b822-d0466c03
 <p align="left"><img 
 src="https://github.com/user-attachments/assets/dea647dc-cd87-416f-a213-45821ea0a9a8" alt="Pandas" title="pandas" width="80" height="70"/> <img src="https://github.com/user-attachments/assets/ecfd80be-4919-4e53-a6c9-f5804046ba77" alt="Numpy" title="Numpy" width="70" height="70"/>  </p>
 
-
 ### Machine Learning & AI
+
+<img align="right" height="350" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - **Frameworks:** Scikit-learn, TensorFlow, Keras
 
 <p align="left"><img 
-src="https://github.com/user-attachments/assets/d179410a-25c0-42a6-bfea-b90d9d846cbc" alt="Scikit-learn" title="Scikit-learn" width="120" height="70"/> <img src="https://github.com/user-attachments/assets/d785aef0-48f1-4e93-83f0-840980a89821" title="TensorFlow" width="120" height="70"/> <img align="right" height="300" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+src="https://github.com/user-attachments/assets/d179410a-25c0-42a6-bfea-b90d9d846cbc" alt="Scikit-learn" title="Scikit-learn" width="120" height="70"/> <img src="https://github.com/user-attachments/assets/d785aef0-48f1-4e93-83f0-840980a89821" title="TensorFlow" width="120" height="70"/> 
  <img src="https://github.com/user-attachments/assets/1350d035-4d39-4a1a-880d-3226b92be1ec" alt="Keras" title="Keras" width="120" height="70"/>  </p>
 
 
