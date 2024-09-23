@@ -1,6 +1,5 @@
-# 💻 Welcome to My Data Science GitHub Profile!
 
-<h1 align="center"><font face="Arial">Hi 👋, I'm Kondeti Veera Venkata Surya Sai Manohar </h1>
+<h1 align="center"><font face="Arial">💻 Hi 👋, I'm Kondeti Veera Venkata Surya Sai Manohar </h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/manohar-kondeti/" target="_blank" rel="noreferrer">Manohar</a> is a Data Science Enthusiast with a passion for solving real-world problems using data. I am currently exploring various aspects of data science, including machine learning, data visualization, and statistical analysis.</font></h3>
 
 <div align="center">
