@@ -7,15 +7,6 @@
 </div>
 
 ---
-## Quick Navigation:
-[Cloud Platforms](#cloud-platforms)  
-[Databases](#databases)  
-[Statistical Analysis](#statistical-analysis)  
-[Data Wrangling](#data-wrangling)  
-[Projects](https://github.com/manohar48936/manohar48936/edit/main/README.md#-projects)  
-[Soft Skills](#soft-skills)  
-[Currently Learning](#currently-learning)  
----
 
 
 ## 🚀 **Technical Skills**
