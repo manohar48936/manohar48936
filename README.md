@@ -74,7 +74,7 @@ Here are some of my recent projects. Feel free to explore them:
 2. **Exploratory Data Analysis on Retail Data** - Gained insights into customer behavior and sales patterns using Pandas and Matplotlib.
 3. **Power BI Dashboard** - Built a dynamic business intelligence dashboard to visualize sales metrics.
 
-Check out my [Repositories](https://github.com/your-profile-name) for more projects.
+Check out my [Repositories](https://github.com/manohar48936?tab=repositories) for more projects.
 
 ---
 
@@ -96,7 +96,7 @@ I am expanding my knowledge in:
 ---
 
 ## 📫 **Let's Connect!**
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com) or via [Email](mailto:your-email@example.com).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manohar-kondeti/) or via [Email](manohar48936@gmail.com).
 
 ---
 
