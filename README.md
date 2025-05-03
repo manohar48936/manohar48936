@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Kondeti Veera Venkata Surya Sai Manohar" />
+  <img src="https://raw.githubusercontent.com/martonlederer/Kondeti Veera Venkata Surya Sai Manohar/master/name.svg" alt="Kondeti Veera Venkata Surya Sai Manohar"/>
 </h1>
 
 
